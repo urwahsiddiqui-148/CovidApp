@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-![Group 2](https://user-images.githubusercontent.com/47206155/147916110-d19e051b-3246-4377-a807-a1ff4d4a7e9f.png)
-# covid_tracker
-
-I have created this app flutter with Rest API, API is open source. 
-
-Youtube Tutorials: https://youtube.com/playlist?list=PLFyjjoCMAPtzgITDreXNNkSWLKbd1wf51
-
-
-This app has the following features. 
-
-Track whole world covid states
-Show overall states in Pie Chart 
-Display countries list with active case 
-Filter countries list 
-Track covid states countries wise
-
-You are welcome to modify the source code and make it usable according to your own requirements. 
-=======
 # Flutter-Covid-App
 This Flutter-based COVID-19 Tracker app provides real-time statistics and information about the ongoing COVID-19 pandemic. It is designed with a clean and intuitive interface to display global and country-specific data, including the number of confirmed cases, recoveries, and deaths. The app leverages reliable APIs to ensure up-to-date information.
 A real-time COVID-19 tracker app built with Flutter, providing global and country-specific data, interactive charts, and safety guidelines.
